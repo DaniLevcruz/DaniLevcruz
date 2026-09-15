@@ -1,7 +1,7 @@
 
 **<h1>Hello, I'm Daniel, nice to meet you.</h1>**
 - ---
-- <h3>👋 Hi, I’m Daniel Levoreiro Cruz, i'm 18 years old and I'm currently studying the first semester of the career of computation in UABJO. I live in Oaxaca de Juárez, Oaxaca.</h3>
+- <h3>👋 Hi, I’m Daniel Levoreiro Cruz, i'm 21 years old and I'm currently studying the seven semester of the career of computation in UABJO. I live in Oaxaca de Juárez, Oaxaca.</h3>
 ![I show you a picture of my university:](https://oaxaca.eluniversal.com.mx/sites/default/files/styles/detalle_nota_1080x666_v22/public/2022/12/05/uabjo_oaxaca_presupuesto.jpg?itok=Eq8wyjKh)
 - ---
 - 👀 *I’m interested in learning programation and in a future specialize in AI (artificial inteligence).*
